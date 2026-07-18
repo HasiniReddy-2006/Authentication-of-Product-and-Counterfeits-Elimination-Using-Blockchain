@@ -67,6 +67,15 @@ git clone https://github.com/HasiniReddy-2006/Authentication-of-Product-and-Coun
 - Web3.py
 - VS Code
 
+## ▶️ How to Run the Project
+
+Follow the steps below to run the application locally.
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/HasiniReddy-2006/Authentication-of-Product-and-Counterfeits-Elimination-Using-Blockchain.git
+
 
 
 
