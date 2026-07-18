@@ -52,11 +52,26 @@ The system allows manufacturers to register products on the blockchain, while cu
 - CSS
 - JavaScript
 
+
+---
+
+## ⚙️ Installation and Setup
+
+### Clone Repository
+
+```bash
+git clone https://github.com/HasiniReddy-2006/Authentication-of-Product-and-Counterfeits-Elimination-Using-Blockchain.git
+
 ### Tools
 - Remix IDE
 - Web3.py
 - VS Code
 
----
+
+
+
+
+
+
 
 ## 📂 Project Structure
